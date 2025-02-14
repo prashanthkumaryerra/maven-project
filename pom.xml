@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Maven Project</name>
-    <description>Sample Maven project for Jenkins & Docker Labs</description>
+    <description>Sample Maven project for Jenkins &amp; Docker Labs</description>
     
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
